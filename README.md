@@ -1,6 +1,6 @@
 # EuropeanFootballDataset
 ### Notebooks and Slideshow
-There are 2 associated notebook, one is for the visualization and one has the predcitions, processing, modelling and data engineering. 
+There are 2 associated notebooks, one is for the visualization and one has the predictions, preprocessing, modelling and data engineering. 
 To better understand the process and intuition of the notebooks, a good idea would be to go through the slideshow and discover the same steps in the notebook.
 For the reason stated above, this readme file will be kept very short.
 
